@@ -156,12 +156,6 @@ Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on the process for 
 
 ![Plane Repo Activity](https://repobeats.axiom.co/api/embed/2523c6ed2f77c082b7908c33e2ab208981d76c39.svg "Repobeats analytics image")
 
-### We couldn't have done this without you.
-
-<a href="https://github.com/makeplane/plane/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=makeplane/plane" />
-</a>
-
 ## License
 
 This project is licensed under the [GNU Affero General Public License v3.0](./LICENSE.txt).
